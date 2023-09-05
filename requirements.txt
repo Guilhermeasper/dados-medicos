@@ -3,3 +3,5 @@ matplotlib
 numpy
 seaborn
 scikit-learn
+optuna
+plotly
